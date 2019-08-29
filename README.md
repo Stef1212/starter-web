@@ -1,7 +1,7 @@
 # Starter Web project 
 
 This is a simple website project for showing ho to use Git and Github together.
-adding a line for repasing example
+adding a line for repasing example, then morge changes from my feature branch too.
 
 ##Introduction
 

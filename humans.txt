@@ -8,7 +8,7 @@
 # THANKS
 
    to jason
-
+    the cursus was very helpfull
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3

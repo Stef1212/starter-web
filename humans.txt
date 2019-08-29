@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Stef Zethof     stef@advise.nl
 
 # THANKS
 
